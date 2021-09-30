@@ -6,24 +6,34 @@ R2: Python Data Analytics - Fabio Nelli
 R3. Python Data Science Handbook - Jake VanderPlas
 
 
-<b> Week-01 </b>
+Week-01
 - Introduction to "Data 601" 
 - (EXTRA Lectures) Python: Variables & Collection
-Reading: R1. Chapters 2 & 3.1
+Reading: R1. Chapters 1, 2 & 3.1 or
+R2. Chapters 1 
 Homework: HW-01 is assigned
 
 Week-02
 - Python: Control Flow
 - (EXTRA Lectures) Python: Functions and Input/Output
 - (EXTRA Lectures) Python: Introduction to Numpy
-Reading: R1. Chapters 3.2, 3.3 & 4.1-4.4, 6.1
+Reading: 
+ - R1. Chapters 3.2, 3.3 & 4.1-4.4, 6.1
+ - or R2. Chapters 2 and 3 
+ - or R3. Chapters 2
 
 Week-03:
 - Python: Visualization
 Reading: 
+ - or R1. Chapters 9
+ - or R2. Chapters 7
+ - or R3. Chapters 4
 Homework: HW-02 is assigned
 
 Week-04: 
  - Pandas
-Reading: R1. Chapter 5
-Homework: HW-02 is assigned 
+Reading: 
+ - R1. Chapter 5
+ - or R2. Chapters 4
+ - or R3. Chapters 3
+
