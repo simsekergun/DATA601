@@ -1,1 +1,29 @@
 Welcome to DATA 601-01
+
+REFERENCES (for reading recommendations)
+R1: Python for Data Analysis - Wes McKinney
+R2: Python Data Analytics - Fabio Nelli
+R3. Python Data Science Handbook - Jake VanderPlas
+
+
+<b> Week-01 </b>
+- Introduction to "Data 601" 
+- (EXTRA Lectures) Python: Variables & Collection
+Reading: R1. Chapters 2 & 3.1
+Homework: HW-01 is assigned
+
+Week-02
+- Python: Control Flow
+- (EXTRA Lectures) Python: Functions and Input/Output
+- (EXTRA Lectures) Python: Introduction to Numpy
+Reading: R1. Chapters 3.2, 3.3 & 4.1-4.4, 6.1
+
+Week-03:
+- Python: Visualization
+Reading: 
+Homework: HW-02 is assigned
+
+Week-04: 
+ - Pandas
+Reading: R1. Chapter 5
+Homework: HW-02 is assigned 
