@@ -1,4 +1,4 @@
-,school_name,state_name_latest_available_year,lowest_grade_offered,highest_grade_offered,total_students_all_grades,free_and_reduced_lunch_students,reduced-price_lunch_eligible_students,latitude,longitude,magnet_school,charter_school,shared_time_school,urban-centric_locale
+,school_name,state_name,lowest_grade_offered,highest_grade_offered,total_students_all_grades,free_and_reduced_lunch_students,reduced-price_lunch_eligible_students,latitude,longitude,magnet_school,charter_school,shared_time_school,urban-centric_locale
 0,ABERDEEN HIGH,Maryland,9th Grade,12th Grade,1458,661,124,39.516307,-76.171125,1-Yes,2-No,2-No,22-Suburb: Mid-size
 1,ACADEMY OF HEALTH SCIENCES AT PGCC,Maryland,9th Grade,12th Grade,518,237,67,38.886849,-76.830282,1-Yes,2-No,2-No,21-Suburb: Large
 2,ACHIEVEMENT ACADEMY @ HARBOR CITY HIGH,Maryland,9th Grade,12th Grade,411,411,"=""0""",39.36573,-76.56993100000003,2-No,2-No,2-No,11-City: Large
