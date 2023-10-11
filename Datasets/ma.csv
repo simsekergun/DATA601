@@ -1,0 +1,673 @@
+Campus ID,VisaType,D601,D602,D603,D604,D606,D605,D607,Ele1,Ele2,Ele3,Ele4
+AA23090,F1 - Student Visa,1,2,3,1,0,1,-1,2,3,0,0
+AG29171,F1 - Student Visa,1,2,2,1,3,1,2.5,2,2,2.5,0
+AH28458,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+AH31139,F1 - Student Visa,1,1,1,2,3,2,3,2,2,3,0
+AI30773,F1 - Student Visa,1,1,2,1.5,4,1,3,2,2,3,3
+AI60211,F1 - Student Visa,1,1,2,1,0,2,3,2,3,3,0
+AK67771,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+AL79610,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+AM60898,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+AN75453,F1 - Student Visa,1,2,2,1,0,1,5,3,3,0,0
+AN85258,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+AO67090,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+AP29057,F1 - Student Visa,1,2,2,1,4,1,3,2,3,3,0
+AQ39899,F1 - Student Visa,1,2,2,1,3,1,2,3,3,3,0
+AQ58890,Citizen by birth,1,2,3,2,0,3,3,0,0,0,0
+AR63214,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+AT38578,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+AT39250,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+AT47056,No Visa Type,1,0,0,0,0,0,0,0,0,0,0
+AX36299,F1 - Student Visa,1,2,2,1,3,2,3,1,3,0,0
+AX86773,No Visa Type,1,0,0,1,0,0,0,0,0,0,0
+BA13810,F1 - Student Visa,1,0,0,1,0,0,1,0,0,0,0
+BA23013,F1 - Student Visa,1,1,2,1,0,2,2,3,3,3,0
+BA74692,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+BB38770,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+BB48890,F1 - Student Visa,2,0,0,2,0,1.5,1,1,1,2,3
+BC59095,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+BD51771,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+BF66133,F1 - Student Visa,1,2,2,2,4,1,1,3,3,3,0
+BF68134,F1 - Student Visa,1,2,2,1,3,1,2,2,2.5,3,3
+BG98738,F1 - Student Visa,1,2,3,1,0,1,3,2,2,3,0
+BH11498,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+BI55498,F1 - Student Visa,1,2,2,2,0,1,1,3,3,0,0
+BK80174,No Visa Type,1,2,1.5,2,0,0,0,1,0,0,0
+BL60211,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+BL60852,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+BL70493,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+BN34971,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+BO06455,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+BO87773,F1 - Student Visa,1,2,2,1,0,2,1,0,0,0,0
+BO89613,No Visa Type,0,1,1,0,5.5,4,3,2,2,5,0
+BU09978,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+BU94693,F1 - Student Visa,1,2,2,1,3,1,0,2,3,3,0
+BW13617,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+BW88332,F1 - Student Visa,1,2,1,1,0,2,2,3,3,3,0
+BZ51019,F1 - Student Visa,1,2,2,1.5,3,1,1,2,3,3,4
+CA57170,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+CB37897,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+CD85411,F1 - Student Visa,1,1,2,2,0,1,3,2,3,3,0
+CF87137,F1 - Student Visa,1,2,2,1,3,1,3,2,3,0,0
+CG69579,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+CI54012,F1 - Student Visa,1,2,2,1,0,1,5,3,3,0,0
+CI75173,F1 - Student Visa,2,2.5,3,3,0,2,2,1,1,-1,3
+CJ85694,F1 - Student Visa,1,0,0,1,0,0,0,0,0,0,0
+CK38174,F1 - Student Visa,1,1,2,2,0,1,3,2,3,3,0
+CL61733,F1 - Student Visa,1,1.5,2,1,0,1,1.5,2,2,0,0
+CM12215,F1 - Student Visa,2,3,3,2,0,2,3,1,1,1,0
+CM93092,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+CN24933,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+CN54533,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+CN74252,F1 - Student Visa,1,3,2,1,0,3,2,3,3,0,0
+CO29893,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+CQ84739,F1 - Student Visa,1,2,3,2,4,1,2,1,3,3,0
+CS35058,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+CS35138,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+CS49894,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+CS68859,F1 - Student Visa,1,2,2,1,4,1,2,3,3,3,0
+CS76576,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+CT20254,No Visa Type,1,4,3,2,0,1,2,1,2,3,0
+CT39859,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+CT78371,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+CW54735,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+CX00372,No Visa Type,0,0,3,2,0,2,0,1,0,0,0
+CX29650,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+CZ04458,F1 - Student Visa,1,1,3,2,0,2,3,1,2,3,0
+CZ35053,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+CZ75456,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+CZ94050,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+DA54897,F1 - Student Visa,1,1,2,2,0,1,2,3,3,3,0
+DE14051,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+DE33092,F1 - Student Visa,1,1,0,0,0,1,0,0,0,0,0
+DF25776,F1 - Student Visa,1,3,3,2,0,3,2,1,1,2,0
+DF89133,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+DK80177,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+DL32738,F1 - Student Visa,1,1,2,2,3,1,2,3,3,0,0
+DN59178,F1 - Student Visa,1,1.5,2,1,0,1,2,1.5,2,0,0
+DP50052,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+DQ22334,No Visa Type,1,2,4,3,0,2,1,3,5,6,0
+DR04051,F1 - Student Visa,2,3,3,2,0,3,2,1,-1,1,2.5
+DR36090,No Visa Type,1,2,2,2,3,1,3,1,2.5,0,0
+DT21815,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+DU72811,F1 - Student Visa,1,0,1,1,0,0,0,0,0,0,0
+DX62011,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+DY82337,No Visa Type,1,2.5,3,2,0,1.5,4.5,4,5,0,0
+DZ93614,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+EC20816,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+EC49897,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+EE14374,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+EE36010,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+EF46579,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+EF58338,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+EG10774,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+EG21094,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+EI34057,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+EJ66499,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+EL93253,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+EN35210,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+EN80057,No Visa Type,2,0,0,2,0,0,0,1,0,0,0
+EO92018,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+EQ55698,F1 - Student Visa,1,2,2,1,3,1,3,2,3,0,0
+ER35213,No Visa Type,1,2,3,1,0,1,2,0,0,0,0
+ES58614,F1 - Student Visa,1,0,1,1,0,0,0,0,0,0,0
+ES77892,F1 - Student Visa,1,2,2,1,3,1,2,3,3,3,0
+ET09937,F1 - Student Visa,1,1.5,2,1,0,1,2,1.5,2,0,0
+EV35855,"Dependent of H1,H2,H3,HA,HB",1,2,2.5,2,3,2,3,1,2.5,0,0
+EV98413,F1 - Student Visa,1,0,0,1,0,0,0,1,0,0,0
+EW27854,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+EX00931,F1 - Student Visa,1,2,2,1,3,1,3,2,3,0,0
+EY53339,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+EZ57495,No Visa Type,1,0,0,1,0,0,1,0,0,0,0
+FA67098,F1 - Student Visa,2,0,0,2,0,2,0,1,1,1,0
+FB40659,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+FC23139,Citizen by birth,1,2,2,1,0,0,0,0,0,0,0
+FE56296,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+FF47816,No Visa Type,1,2,2,3,0,0,2,3,3,0,0
+FF69418,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+FG30734,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+FG32258,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+FH13411,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+FJ77815,No Visa Type,1,2,3,2,0,3,0,1,4,0,0
+FK32214,No Visa Type,1,2,2,1,0,1.5,1,3,4,0,0
+FK39216,F1 - Student Visa,1,2,2,1,4,1,2,3,3,3,0
+FM33658,F1 - Student Visa,1,2,2,2,4,1,3,1,3,3,0
+FM77292,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+FN38611,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+FN40732,F1 - Student Visa,1,2,2,1,0,2,0,1,0,0,0
+FO62975,F1 - Student Visa,1,2,2,1,3,1,3,2,2.5,2.5,0
+FP23651,F1 - Student Visa,2,4,3,3,0,1,1,1,2,2,3
+FR78458,F1 - Student Visa,0,3,0,0,0,2,1,1,1,2,2
+FT44056,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+FV86010,F1 - Student Visa,1,2,2,1,4,1,2,3,3,3,0
+FW61697,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+FW92337,F1 - Student Visa,1,2,2,1,4,3,4,-1,3,3,3.5
+FX41015,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+FX42973,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+FX90769,Citizen by birth,1,0,0,1,0,0,0,0,0,0,0
+FZ15577,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+FZ15698,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+GB22930,F1 - Student Visa,1,2,2,1,0,1,2,1.5,0,0,0
+GC44570,F1 - Student Visa,1,2,3,2,3.5,1,2,1,3,3,4
+GD38211,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+GD53970,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+GF69617,No Visa Type,1,2,1.5,0,0,0,1,2,0,0,0
+GF89659,F1 - Student Visa,1,2,2,1,0,2,3,1,3,3,0
+GG42052,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+GG52972,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+GH66338,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+GI67216,F1 - Student Visa,1,1,0,1,0,0,0,0,0,0,0
+GJ09534,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+GK10578,Citizen by birth,3,4,5.5,6,0,2,0,1,5,0,0
+GM65333,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+GN38499,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+GO70177,F1 - Student Visa,1,1.5,3,1,0,2,2,1,3,3,0
+GR09530,No Visa Type,1,1,1.5,2,3.5,1.5,0,3,3,3,3.5
+GR50572,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+GR68330,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+GR69858,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+GS40818,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+GT21417,No Visa Type,2,0,0,0,0,0,1,1,2,0,0
+GT93257,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+GU23211,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+GV71019,F1 - Student Visa,1,2,2,1,0,1,2,1.5,0,0,0
+GX02138,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,3
+GX82934,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+GX86058,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+GY76933,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+GY98699,F1 - Student Visa,1,1,2,2,0,2,3,1,3,3,0
+GZ90778,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+HA69736,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+HA82537,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+HB63578,F1 - Student Visa,1,2,2,1,3,5,3,1,4,0,0
+HD59451,F1 - Student Visa,1,2,2,1,3,1,2,3,3,4,0
+HD97936,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+HE39576,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+HF19653,F1 - Student Visa,1,2,1,1,4,2,2,3,3,3,0
+HH85815,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+HI07579,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+HJ18972,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+HK23091,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+HK31410,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+HK63493,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+HK83297,F1 - Student Visa,2,0,0,0,0,2,1,1,1,2,3
+HK84530,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+HL14572,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+HL35331,F1 - Student Visa,1,2,2,1,3.5,1,2,3,3,3,0
+HL43498,F1 - Student Visa,1,1.5,2,1,0,1,2,1.5,2,0,0
+HN42414,Citizen by birth,0,1,0,0,0,0,0,0,0,0,0
+HN59090,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+HO74376,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+HP14858,No Visa Type,3,4,5.5,5,6,1,2,1,1.5,2,2
+HR29177,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+HS44379,F1 - Student Visa,1,2,3,2,0,1,2,1,3,3,0
+HT16094,F1 - Student Visa,1,2,2,1,0,1,1.5,2,0,0,0
+HU17258,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+HW09259,F1 - Student Visa,1,2,2,1,2.5,1,1,2,2.5,3,0
+HW19895,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+HY48532,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,3
+HY56293,F1 - Student Visa,1,2,2,1,3,1,3,2,3,0,0
+HZ37296,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+IA50215,F1 - Student Visa,1,0,1,1,0,1,0,0,0,0,0
+IA73214,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+IE68690,No Visa Type,0,0,0,0,0,0,0,1,1,2,2
+IE92339,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+IG25413,F1 - Student Visa,1,2,3,1,0,3.5,2,-1,3,3,0
+IG45378,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+IG74096,F1 - Student Visa,1,2,2,1,3,1,2,2.5,3,3,0
+II39698,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+IJ52978,F1 - Student Visa,1,0,0,1,0,0,0,1,0,0,0
+IM06699,Permanent Resident,1,2,3,3,0,5,4,2.5,4,5,0
+IM98170,F1 - Student Visa,1,2,2,1,0,1,5,3,3,0,0
+IN00574,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+IO21458,F1 - Student Visa,1,2,2,1,0,1,3,2,3,0,0
+IP03539,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+IP94898,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+IQ36495,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+IQ58974,F1 - Student Visa,1,1,1,1,0,0,0,0,0,0,0
+IT75930,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+IV52413,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+JA54333,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+JA85013,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+JE18938,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+JE40933,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+JF96412,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+JG97937,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+JH58970,F1 - Student Visa,1,2,0,2,0,0,0,1,1,1.5,2
+JH88172,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+JK55095,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+JL15855,F1 - Student Visa,1,2,2,1,0,1,6,2,3,3,0
+JL48133,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+JL60293,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,3
+JM59453,F1 - Student Visa,1,3,2,1,0,2,2,1,3,3,0
+JN60493,F1 - Student Visa,1,1,2,1,3,2,0,2,3,3,0
+JO25650,F1 - Student Visa,1,2,2,1,0,1,2,1.5,0,0,0
+JO43179,No Visa Type,0,0,2,1,6,1.5,3,4,5,0,0
+JP44930,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+JQ00578,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+JR32251,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+JR94931,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+JS76853,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+JT06458,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+JT23739,F1 - Student Visa,1,2,3,1,0,1,3,2,2,3,0
+JT88377,No Visa Type,1,0,0,1,0,0,0,1,0,0,0
+JV40019,F1 - Student Visa,1,0,0,1,0,0,0,1,0,0,0
+JV70217,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+JX33255,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+JX65291,F1 - Student Visa,1,2,2,1,4,1,2,3,-1,3,4
+KA30856,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+KA62774,No Visa Type,1,2.5,3,2,3,2,3,1,2.5,3,0
+KB85699,F1 - Student Visa,1,2,3,2,0,1,1,2,3,3,0
+KC15894,No Visa Type,0,0,3,2,0,2,0,1,0,0,0
+KD80413,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+KE02693,No Visa Type,1,2,0,1,0,2,0,0,0,0,0
+KF31895,F1 - Student Visa,1,1.5,2,1,4,4,1,3,3,3,0
+KF95293,F1 - Student Visa,1,1,2,1,3,1,3,2,2,2.5,0
+KG86292,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+KG97855,F1 - Student Visa,1,2,0,1,0,2,1,2,0,0,0
+KJ04412,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+KM73619,F1 - Student Visa,1,1,2,1,0,3,2,2,3,3,0
+KN44173,F1 - Student Visa,1,1,2,2,0,1,3,2,3,3,0
+KO15853,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+KO67574,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+KP56490,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+KQ39776,Permanent Resident,0,2,3,1,0,4,6,5,5,6,0
+KQ79451,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,3
+KR62855,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+KT97617,F1 - Student Visa,1,2,2,1,4,2,1,3,3,3,0
+KX35537,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+KZ10132,F1 - Student Visa,1,1,2,1,0,2,2,3,3,3,0
+LA32371,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+LA34291,F1 - Student Visa,1,2,2,2,0,1,0,1,0,0,0
+LB04019,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+LC97291,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+LD91652,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+LE95092,F1 - Student Visa,1,0,0,1,0,0,0,1,0,0,0
+LF66973,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+LF78371,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+LG27051,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+LG56610,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+LG66854,F1 - Student Visa,1,1,3,1,0,3,2,2,2,3,0
+LI73411,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+LJ52738,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+LJ83576,F1 - Student Visa,1,1.5,2,1,0,2,1,2,0,0,0
+LL09457,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,3
+LL49217,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+LM09454,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+LM84210,F1 - Student Visa,1,2,2,1.5,3,1,1,2,3,3,4
+LN66171,F1 - Student Visa,1,2,2,1,0,1,3,2,3,0,0
+LN73970,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+LO55859,F1 - Student Visa,1,2,2,1,0,1,5,3,3,0,0
+LQ59371,No Visa Type,1,2,2,1,5,2.5,5,3,3,4,4
+LQ63734,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+LR13734,F1 - Student Visa,1,1,1,2,3,2.5,2.5,2,2,2.5,0
+LV31699,F1 - Student Visa,1,2,2,1,0,1,2,1.5,0,0,0
+LW23290,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+LX39016,No Visa Type,1,-2,4,1,0,2,3,3.5,0,0,0
+LX79370,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+LX79890,F1 - Student Visa,1,1,2,2,0,1,3,2,3,3,0
+LY38218,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+LZ93659,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+LZ95175,F1 - Student Visa,1,2,1,2,4,2,3,1,3,3,0
+MB37094,F1 - Student Visa,1,1,0,1,0,0,0,0,0,0,0
+MC49178,F1 - Student Visa,1,2,2,1,0,1,5,3,3,0,0
+MC68294,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ME23298,F1 - Student Visa,2,2,2,1,0,1,3,1,3,3,0
+ME33338,F1 - Student Visa,1,2,2,1,0,3,3,1,2,3,0
+MF26737,F1 - Student Visa,1,2,2,1,0,1,3,2,3,0,0
+MF79298,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+MF95377,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+MG67053,F1 - Student Visa,1,2,2,1,3,1,0,2,3,3,3
+MH09851,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+MI20695,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+MJ16533,F1 - Student Visa,1,1,3,2,0,1,2,2,3,3,0
+MJ35132,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+MJ76934,F1 - Student Visa,1,2,2,2,4,1,1,3,3,3,0
+ML09853,Permanent Resident,1,0,0,0,0,0,0,0,0,0,0
+ML51414,F1 - Student Visa,1,2,2,2,3,1,1,3,3,4,0
+ML61135,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+MM85299,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+MN46650,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+MO99570,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+MQ50131,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+MQ52018,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+MR22455,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+MS58847,Permanent Resident,1,0,0,0,0,0,0,0,0,0,0
+MS77377,F1 - Student Visa,1,2,3,1,0,1,2,2,3,0,0
+MT50255,F1 - Student Visa,1,2,3,2,4,3,1,1,2,3,0
+MT99575,F1 - Student Visa,1,1.5,2,1,0,0,2,1,1.5,2,0
+MV54416,F1 - Student Visa,1,2,2,1,0,2,0,1,0,0,0
+MV74218,No Visa Type,1,2,3,4,5,4,4.5,5,0,0,0
+NA98416,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+NB60615,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+NC79372,No Visa Type,1,1.5,2,0,0,2,1,0,0,0,0
+NC79412,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+NC79454,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ND22254,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+NE63818,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+NF89412,No Visa Type,0,0,0,0,0,0,0,1,0,0,0
+NG30258,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+NG60375,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+NH13332,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+NH53017,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+NH62619,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,3
+NH83177,No Visa Type,1,2,1.5,1,4,3.5,3,2,3,4,0
+NI63732,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+NI63811,F1 - Student Visa,1,2,2,1,0,1,5,3,3,0,0
+NI74131,F1 - Student Visa,1,2,2,1,3,1,3,2,2.5,2.5,0
+NI84215,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+NJ47739,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+NK16936,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+NL83818,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+NN24495,No Visa Type,0,0,3,2,0,2,0,1,0,0,0
+NP91373,Citizen by birth,1,2,3,5,0,2,1,3,4,5,0
+NR77214,No Visa Type,1,2,2,1.5,3.5,1.5,1,3,3,3.5,4
+NU01134,F1 - Student Visa,1,2,2,1,3,1,2.5,2,2.5,3,0
+NW48692,No Visa Type,1,3,3,3,0,2,1,3,0,0,0
+NX72452,F1 - Student Visa,1,2,2,1,3,1,0,2,3,3,0
+NZ03619,F1 - Student Visa,1,1,1,2,3,2,3,2,3,0,0
+NZ86819,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+OA48212,F1 - Student Visa,1,0,0,1,0,0,0,1,0,0,0
+OC09972,F1 - Student Visa,1,2,2,1,0,1,2,1.5,0,0,0
+OC12613,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+OC83614,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+OD00859,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+OE37375,F1 - Student Visa,1,1,0,1,0,0,0,0,0,0,0
+OF38937,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+OH53378,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+OH95134,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+OJ88335,Visitor/Pleasure,1,0,0,1,0,0,0,0,0,0,0
+OK11212,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+OK38096,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+OM53132,No Visa Type,1,2,0,0,0,0,1,0,0,0,0
+OM57216,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+OM65453,No Visa Type,0,0,0,0,0,0,0,1,0,0,0
+ON99178,No Visa Type,0,0,0,0,0,0,0,1,0,0,0
+OO18458,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+OO29854,F1 - Student Visa,1,3,2,2,0,1,2,1,3,3,0
+OP49613,F1 - Student Visa,1,2,2,2,0,1,3,1,3,3,0
+OQ56577,No Visa Type,1,1,0,1,0,0,0,0,0,0,0
+OR69211,F1 - Student Visa,1,2,3,1,3,1,2,2,2,3,0
+OS98411,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+OT40573,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+OU55972,F1 - Student Visa,1,2,2,2,0,1,3,1,3,3,0
+OU93490,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+OU96737,No Visa Type,1,0,0,1,0,0,0,0,0,0,0
+OV04379,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+OV27576,F1 - Student Visa,1,2,2,2,3,1,3,1,3,0,0
+OW79810,No Visa Type,1,2.5,3,2,5,4,0,4.5,0,0,0
+OY12455,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+PB58695,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+PC60253,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+PD21810,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+PE25970,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+PE59292,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+PF30336,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+PF91773,F1 - Student Visa,1,2,2,1,4,0.5,2,3,3,4,4
+PI96971,F1 - Student Visa,1,3,2,2,0,1,3,1,2.5,3,0
+PL23094,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+PM14013,F1 - Student Visa,1,2,2,1,0,1,5,3,3,0,0
+PN45610,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+PP24297,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+PP42893,F1 - Student Visa,1,2,2,1,2.5,1,3,2,2.5,3,3
+PQ04972,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+PQ63733,No Visa Type,0,0,0,0,0,0,0,1,0,0,0
+PR47776,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+PS07211,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+PS80016,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+PU31735,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+PU44616,No Visa Type,0,2,1,0,5,3,4,3,4,4.5,0
+PW71890,F1 - Student Visa,1,2,2,1,0,4,2,3,3,0,0
+PW71937,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+PY13171,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+PZ33459,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+QA18177,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+QA30332,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+QC61851,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+QE35253,F1 - Student Visa,1,2,2,1,3,1,3,2,2.5,2.5,0
+QF80659,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+QF88856,F1 - Student Visa,1,1,-1,-1,0,1,0,-1,3,3,0
+QG32451,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+QL05335,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+QL24695,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,3
+QN61453,Permanent Resident,1,0,0,0,0,0,0,0,0,0,0
+QO38890,F1 - Student Visa,1,2,2,1,3,1,2,2.5,2.5,3,0
+QR76814,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,3
+QT11938,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+QU05893,F1 - Student Visa,1,2,2,1,3,1,5,3,0,0,0
+QV16019,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,3
+QV36535,F1 - Student Visa,1,2,2,1,3,1,3,2,2.5,3,0
+QV46139,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+QW21097,F1 - Student Visa,1,2,2,1,0,2,3,1,3,3,0
+QW31213,F1 - Student Visa,1,2,2,1,0,1,1.5,1.5,2,0,0
+QW37656,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+QX54175,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+QZ55613,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+QZ67773,F1 - Student Visa,2,1,2,2,4,1,2,-1,3,3,0
+RB61735,No Visa Type,1,0,0,1,0,0,0,0,0,0,0
+RC32296,F1 - Student Visa,1,2,2,1,3,2,3,1,3,0,0
+RD76099,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+RF02217,F1 - Student Visa,1,2,2,2,0,4,0,1,3,3,0
+RH05736,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+RJ91779,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+RM77858,No Visa Type,1,1.5,2,0,0,0,0,1,2,0,0
+RM78658,No Visa Type,1,2,3.5,2,0,3,4,4,5,6,0
+RN06657,F1 - Student Visa,1,1.5,2,2,0,1,1,1.5,1.5,2,0
+RP22297,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+RP95857,F1 - Student Visa,0,2,1,1,3,2,2,1,1,2,0
+RQ47971,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+RQ88772,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+RS82696,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+RT46171,Citizen by birth,1,2,0,0,0,0,0,3,4,0,0
+RU45776,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+RV40095,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+RX86378,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+RZ06059,F1 - Student Visa,2,3,3,2,0,1.5,1,1,1,2,3
+SB51893,F1 - Student Visa,1,2,2,1,0,1,2,1.5,0,0,0
+SC14652,F1 - Student Visa,1,2,2,2,4,1,1,3,3,3,4
+SD08658,No Visa Type,1,2.5,0,2,0,0,0,1,2,2,2.5
+SF43377,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+SI99257,F1 - Student Visa,1,2,2,1,4,1,3,2,3,3,0
+SL57975,No Visa Type,0,0,3,2,0,2,0,1,0,0,0
+SO96494,F1 - Student Visa,1,2,3,1,0,2,2,1,3,0,0
+SS31056,G4 - International Org. Rep.,2,2,0,2,0,1,1,1,0,0,0
+SS95256,F1 - Student Visa,1,0,0,0,0,0,0,0,0,0,0
+SU04571,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+SU89216,F1 - Student Visa,1,2,1,2,4,2,3,1,3,3,0
+SV08897,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+SV29926,No Visa Type,1,2,2,1,0,3.5,0,3,0,0,0
+SV49813,No Visa Type,1,4,4.5,2,0,0,0,2.5,2.5,3,4
+SW10014,F1 - Student Visa,2,0,0,0,0,1,1,1,2,2,3
+SX34377,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+SX42492,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+SX52137,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+SY44333,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+SZ27539,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,3
+TA08134,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+TE58611,F1 - Student Visa,1,2,2,1,0,1,5,3,3,3,0
+TF00410,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+TF11778,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+TF53379,F1 - Student Visa,1,2,2,1,3,2,3,1,3,0,0
+TG55136,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+TH04570,F1 - Student Visa,1,1,2,2,0,1,2,3,3,3,0
+TI29978,F1 - Student Visa,1,2,3,2,4,4,1,2,3,0,0
+TI91215,No Visa Type,1,2,2,1,0,0,0,0,0,0,0
+TJ61779,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+TK77610,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+TL96099,F1 - Student Visa,1,2,3,1,4,2,3,1,2,3,0
+TM26816,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+TN73813,F1 - Student Visa,1,2,0,2,0,1,2,1,0,0,0
+TQ20177,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+TR41179,F1 - Student Visa,1,2,2,1,0,1,2,1.5,0,0,0
+TT75490,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+TU80531,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+TU99059,F1 - Student Visa,1,2,2,1,0,2,3,1,3,3,0
+TV30932,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+TW34813,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+TX36418,F1 - Student Visa,2,0,0,2,0,2,0,1,1,1,0
+TZ08014,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+UA03330,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+UA12457,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+UC05573,F1 - Student Visa,1,2,2,1,3,1,2,2.5,3,3,0
+UE33494,F1 - Student Visa,1,2,2,2,4,1,2,3,3,3.5,0
+UE50213,F1 - Student Visa,1,2,3,2,4,2,3,1,1,3,0
+UE63613,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+UF45454,No Visa Type,1,0,0,0,0,0,0,1,0,0,0
+UF51933,F1 - Student Visa,1,2,1,1.5,4,2,3,1,2,3,3
+UF55532,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+UG87574,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+UI31497,No Visa Type,1,0,0,1,0,0,0,0,0,0,0
+UI50216,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+UI69297,F1 - Student Visa,1,2,3,1,3,1,2,2,2.5,3,0
+UL09336,No Visa Type,1,2,2,1,5,3,5,3,4,4,0
+UM41857,Permanent Resident,2,3,3.5,2,4,1.5,1,1,3,4,0
+UO35015,F1 - Student Visa,1,2,2,3,0,1,2,1,3,3,0
+UO43294,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+UO73932,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+UP34812,F1 - Student Visa,1,2,2,1,0,1,5,3,3,0,0
+UP39413,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+UP66259,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+UQ88976,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+US53017,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+UU38697,F1 - Student Visa,1,1.5,2,1,0,1,1.5,2,2,0,0
+UW75335,F1 - Student Visa,1,2,2,1,2.5,1,6,2,2.5,3,0
+UX02894,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+UX17450,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+UY97413,No Visa Type,2,4,2,3,0,3,4,1,1,4,0
+UY98779,F1 - Student Visa,1,2,3,1,4,1,2,2,3,3,0
+UZ92813,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+VA74657,F1 - Student Visa,1,2,3,2,0,1,2,1,3,3,0
+VB43694,F1 - Student Visa,1,1.5,2,1,0,1,2,1.5,2,0,0
+VD62735,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+VE82256,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+VF96978,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+VH38494,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+VJ74617,F1 - Student Visa,1,2,2,1,0,2,3,1,3,0,0
+VM11375,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+VP60292,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+VR01053,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+VR84934,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+VS53770,Permanent Resident,1,2,2.5,2,0,1,3,3,0,0,0
+VS73693,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+VT76695,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+VV12570,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+VV84255,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+VX87176,F1 - Student Visa,1,2,2,1,3,2,1,3,3,0,0
+VZ10493,F1 - Student Visa,1,2,2,1,0,2,1,1.5,1.5,0,0
+VZ42698,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+WA22417,No Visa Type,1,2,3,4,0,0,0,0,0,0,0
+WD00174,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+WD60571,F1 - Student Visa,1,2,3,2,4,1,1,2,3,3,0
+WF03691,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+WG56858,F1 - Student Visa,1,2,2,3,4,2,1,1,3,3,3.5
+WH22215,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+WH29617,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+WJ05171,Citizen by birth,1,3,4,2,0,2,2,3,3,3.5,4
+WL18137,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+WP30455,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+WQ30219,No Visa Type,1,0,0,1,0,0,0,0,0,0,0
+WQ84771,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+WR25457,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+WR34578,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+WT18136,F1 - Student Visa,1,2,2,2,3,1,3,1,3,0,0
+WT69376,F1 - Student Visa,1,0,0,1,0,0,1,0,0,0,0
+WV04575,F1 - Student Visa,1,1,2,1,0,2,2,3,3,3,0
+WW04813,F1 - Student Visa,1,2,3,1,4,4,2,2,3,0,0
+WW35577,No Visa Type,1,0,0,1,0,0,0,1,0,0,0
+WW57330,No Visa Type,1,2,2,1,0,0,0,0,0,0,0
+WW86898,F1 - Student Visa,1,2,3,1,0,1,3,2,2,2.5,0
+WW88694,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+WX08056,No Visa Type,1,2,3,0,0,0,0,0,0,0,0
+WX57977,F1 - Student Visa,1,2,1.5,1,0,1,2,1.5,2,0,0
+WZ10851,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+XA23572,"Dependent of H1,H2,H3,HA,HB",1,2,2,1,0,1,0,2,0,0,0
+XA35174,F1 - Student Visa,1,2,2,1,0,2,3,1,3,3,0
+XA45814,F1 - Student Visa,1,2,2,1,0,2,1,1.5,0,0,0
+XB99654,No Visa Type,1,2.5,3,2,0,2,0,0,0,0,0
+XC60817,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+XD63939,F1 - Student Visa,1,2,3,3,0,2,1,1,2,2.5,0
+XE13170,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+XF15736,F1 - Student Visa,1,2,2.5,1,3,1,2,2,2.5,3,0
+XH49896,F1 - Student Visa,1,1.5,2,1,0,1,2,1.5,2,0,0
+XI65011,F1 - Student Visa,1,2,3,1,0,1.5,2,2.5,3,3,0
+XJ36896,F1 - Student Visa,1,1,2,2,3,1,2,2,2.5,3,0
+XK60935,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+XK77497,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+XM65892,No Visa Type,1,2,3,3,0,2.5,0,0,0,0,0
+XN25858,No Visa Type,1,2,3,0,0,0,0,0,0,0,0
+XN47610,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+XO66614,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+XP89088,No Visa Type,1,0,3,2,0,0,0,0,0,0,0
+XR15171,F1 - Student Visa,0,0,3,2,0,2,3,1,1,1,2
+XR74050,F1 - Student Visa,1,2,2,1,0,1,5,3,3,0,0
+XR97612,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+XS69935,Citizen by birth,1,0,0,2,0,1.5,0,0,0,0,0
+XT07132,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+XT18496,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+XT27450,No Visa Type,1,0,2,0,0,0,0,3,0,0,0
+XU43419,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+XV15653,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+XV63013,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+XW76894,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+XW77619,F1 - Student Visa,1,2,2,1,3,1,0,2,3,3,0
+XX77459,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+XY43338,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+XZ74495,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+YA34810,F1 - Student Visa,1,2,3,1,0,1,2,2,3,3,0
+YB97292,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+YD50976,F1 - Student Visa,1,2,2,2,0,1,0,1,0,0,0
+YG27415,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+YG69535,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+YG80376,F1 - Student Visa,1,3,2,2,0,1,3,1,3,0,0
+YI32854,No Visa Type,1,2,3,1.5,3.5,2,1,3,4,4,0
+YJ06499,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+YJ56814,F1 - Student Visa,2,2.5,3,2,0,2,3,1,1,-1,3
+YK91210,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+YL52052,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+YL93813,No Visa Type,1,2,0,0,0,0,0,0,0,0,0
+YM41892,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+YM74533,F1 - Student Visa,1,2,0,1,0,1,2,2,0,0,0
+YM94934,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+YN03330,No Visa Type,1,2,2,1,0,1.5,0,0,0,0,0
+YO16573,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+YO29853,F1 - Student Visa,1,2,1,2,2.5,2,1,2,2.5,3,0
+YO38091,No Visa Type,1,3,3,2,4,0,0,1,2,4,0
+YP08497,F1 - Student Visa,1,2,2,1,3,1,2,3,3,0,0
+YP81618,F1 - Student Visa,1,2,2,2,3,1,3,1,3,0,0
+YQ41015,No Visa Type,1,0,0,0,0,1,0,0,0,0,0
+YR06936,No Visa Type,1,3,4,2,0,1.5,0,3.5,0,0,0
+YR76819,F1 - Student Visa,1,2,2,1,0,1,2,0,0,0,0
+YS79974,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+YT18336,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+YT29650,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+YT93657,F1 - Student Visa,1,2,2,1,0,1,3,2,3,3,0
+YV25690,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+YW17258,F1 - Student Visa,1,1,0,1,0,0,0,0,0,0,0
+YY41695,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+YY54657,F1 - Student Visa,1,0,0,0,0,1,0,1,0,0,0
+ZB72017,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+ZC11772,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ZC39972,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ZE24010,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ZF58419,F1 - Student Visa,1,2,2,1,0,1,2,3,3,3,0
+ZG28331,F1 - Student Visa,1,1,0,0,0,1,0,0,0,0,0
+ZG38530,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ZI04298,F1 - Student Visa,1,2,2,1,3,1,0,2,3,3,0
+ZJ05573,No Visa Type,0,0,2.5,0,5,0,3,1,2,3,4
+ZK18813,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ZM13779,F1 - Student Visa,1,2,2,1,0,1,0,2,0,0,0
+ZO20612,F1 - Student Visa,1,2,2,1,0,2,3,1,3,3,0
+ZO27532,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ZP32772,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ZR57376,F1 - Student Visa,1,2,2,1,4,4.5,2,3,3,0,0
+ZS36537,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ZT28698,No Visa Type,2,3,5,4,0,0,1.5,1,5,0,0
+ZT41737,Citizen by birth,2,2.5,3,3,0,2,0,1,0,0,0
+ZU00493,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ZU63814,F1 - Student Visa,3,0,0,0,0,0,0,1,1,1,2
+ZU95976,Citizen by birth,2,3,4,2,0,1,0,1,3,4,0
+ZV75259,F1 - Student Visa,1,2,3,1,0,1,5,2,3,0,0
+ZW38452,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
+ZW71217,F1 - Student Visa,1,1,0,0,0,1,0,0,0,0,0
+ZY32374,F1 - Student Visa,1,1.5,3,1,0,1,2,2,3,3,0
+ZZ64418,F1 - Student Visa,1,0,0,1,0,1,0,0,0,0,0
